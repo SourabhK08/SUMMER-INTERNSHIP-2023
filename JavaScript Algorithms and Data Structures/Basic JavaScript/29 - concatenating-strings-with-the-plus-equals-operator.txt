@@ -1,0 +1,9 @@
+let myStr = "This is the first sentence. ";
+
+myStr += "This is the second sentence.";
+
+Example:
+
+let ourStr = "I come first. ";
+ourStr += "I come second.";
+ourStr now has a value of the string I come first. I come second..

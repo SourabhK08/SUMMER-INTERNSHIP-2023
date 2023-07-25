@@ -1,0 +1,12 @@
+// Change code below this line
+const someAdjective = "fun to me!";
+let myStr = "Learning to code is ";
+
+myStr += someAdjective;
+
+Example:
+
+const anAdjective = "awesome!";
+let ourStr = "freeCodeCamp is ";
+ourStr += anAdjective;
+ourStr would have the value freeCodeCamp is awesome!.

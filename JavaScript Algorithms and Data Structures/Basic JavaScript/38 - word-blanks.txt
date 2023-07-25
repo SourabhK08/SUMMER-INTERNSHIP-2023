@@ -1,0 +1,18 @@
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = "This " + myNoun + " " + myAdjective + " " + myVerb + " " + 
+myAdverb +"."; // Change this line
+// Only change code above this line
+
+
+
+Consider this sentence:
+
+It was really ____, and we ____ ourselves ____.
+
+const sentence = "It was really " + "hot" + ", and we " + 
+"laughed" + " ourselves " + "silly" + ".";
